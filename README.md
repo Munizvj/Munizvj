@@ -23,10 +23,10 @@ I'm constantly working on improving my skills as a developer, with a focus on AP
 
 🛠️ Technologies
 
-Backend: Java • Spring Boot
-Frontend: HTML • CSS • JavaScript
-Cloud: AWS
-DevOps: Docker • Kubernetes • Git/Git hub
+Backend: Java • Spring Boot <br>
+Frontend: HTML • CSS • JavaScript <br>
+Cloud: AWS <br>
+DevOps: Docker • Kubernetes • Git/Git hub <br>
 Languages: Portuguese • English (C1)
 
 📫 Contact
