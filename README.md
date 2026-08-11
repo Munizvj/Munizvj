@@ -1,16 +1,34 @@
-## Hi there 👋
+## João V. Muniz
 
-<!--
-**Munizvj/Munizvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Fullstack Developer`**
 
-Here are some ideas to get you started:
+💻 Developer in training, currently pursuing a degree in Systems Analysis and Development, with a focus on Fullstack Development and a strong interest in Cloud and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm 23 years old and continuously developing my skills, mainly within the Java ecosystem, working with technologies and tools such as:
+
+☕ Java
+🌱 Spring Boot
+🌐 HTML, CSS & JavaScript
+☁️ AWS
+🐳 Docker
+☸️ Kubernetes
+
+I also have C1-level English proficiency, allowing me to comfortably work with technical documentation, follow international content, and communicate in English.
+
+🚀 Currently
+
+I'm constantly working on improving my skills as a developer, with a focus on API development, software architecture, microservices, cloud computing, containerization, and DevOps practices.
+
+📚 Always learning and putting my knowledge into practice through personal projects and hands-on experience.
+
+🛠️ Technologies
+
+Backend: Java • Spring Boot
+Frontend: HTML • CSS • JavaScript
+Cloud: AWS
+DevOps: Docker • Kubernetes • Git/Git hub
+Languages: Portuguese • English (C1)
+
+📫 Contact
+
+I'm always open to connecting with new people, exploring opportunities, and collaborating on interesting projects!
