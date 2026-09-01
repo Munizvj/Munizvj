@@ -1,6 +1,6 @@
 ## João V. Muniz
 
-**`Fullstack Developer`**
+**`Java Developer`**
 
 💻 Developer in training, currently pursuing a degree in Systems Analysis and Development, with a focus on Fullstack Development and a strong interest in Cloud and DevOps.
 
